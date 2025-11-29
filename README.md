@@ -6,6 +6,10 @@ I enjoy solving complex problems efficiently and writing clean, maintainable cod
 
 I’m continuously learning and exploring new technologies, with a clear goal of becoming an AI Engineer
 
+</p><p align="right">
+  <img src="https://c4.wallpaperflare.com/wallpaper/357/193/225/linux-hackers-1337-pcbots-wallpaper-preview.jpg" alt="Your Profile Picture" width="450" height="450" style="border-radius: 10px; margin-left: 20px;">
+</p>
+
 ### 🌐 Find Me Around The Web:
 
 <p align="left">
@@ -18,9 +22,7 @@ I’m continuously learning and exploring new technologies, with a clear goal of
   <a href="https://www.facebook.com/share/1AAsfrM3XJ" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-</p><p align="right">
-  <img src="https://c4.wallpaperflare.com/wallpaper/357/193/225/linux-hackers-1337-pcbots-wallpaper-preview.jpg" alt="Your Profile Picture" width="450" height="450" style="border-radius: 10px; margin-left: 20px;">
-</p>
+
 
 ## :computer: Technologies I Love
 * Machine Learning
