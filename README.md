@@ -1,4 +1,6 @@
-## Hi there I am Joseph Botros <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+<h2 align="left">Hi 👋! My name is Joseph Botros and I'm a Competitive Programmer, from Egypt </h2>
+
+###
 
 ## About me 
 I’m a passionate and detail-oriented programmer with strong proficiency in C++ and C#, focusing on Object-Oriented Programming (OOP) and Data Structures.
@@ -6,9 +8,9 @@ I enjoy solving complex problems efficiently and writing clean, maintainable cod
 
 I’m continuously learning and exploring new technologies, with a clear goal of becoming an AI Engineer
 
-</p><p align="right">
-  <img src="https://c4.wallpaperflare.com/wallpaper/357/193/225/linux-hackers-1337-pcbots-wallpaper-preview.jpg" alt="Your Profile Picture" width="450" height="450" style="border-radius: 10px; margin-left: 20px;">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JosephBotros47&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ### 🌐 Find Me Around The Web:
 
