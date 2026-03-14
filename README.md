@@ -18,7 +18,7 @@ I’m continuously learning and exploring new technologies, with a clear goal of
   <a href="https://www.linkedin.com/in/joseph-botros-wilson-4611a9341/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:josephbotroslll@gmail.com">
+  <a href="https://mail.google.com/mail/u/0/">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://www.facebook.com/share/1AAsfrM3XJ" target="_blank">
