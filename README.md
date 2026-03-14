@@ -3,10 +3,7 @@
 ###
 
 ## About me 
-I’m a passionate and detail-oriented programmer with strong proficiency in C++ and C#, focusing on Object-Oriented Programming (OOP) and Data Structures.
-I enjoy solving complex problems efficiently and writing clean, maintainable code.
-
-I’m continuously learning and exploring new technologies, with a clear goal of becoming an AI Engineer
+I am Skilled in Python & C++, with a solid foundation in OOP, Algorithms, and Data Structures. Passionate about data and aspiring to be a Data Engineer
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JosephBotros47&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
