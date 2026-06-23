@@ -6,7 +6,7 @@
 ---
 
 ## 🧑‍💻 About Me
-I am a passionate developer from Egypt with a solid foundation in **Algorithms**, **Data Structures**, and **OOP**. Currently, I am channeling my problem-solving skills toward **Data Analysis** and **Data Science**.
+I am a passionate developer from Egypt with a solid foundation in **Algorithms**, **Data Structures**, and **OOP**. Currently, I am channeling my problem-solving skills toward **Machine Learning** and **MLOps**.
 
 - 🔭 I’m currently working on improve my SQL skills.
 - 🎓 Specializing in Python and its data science libraries.
