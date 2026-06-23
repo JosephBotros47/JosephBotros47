@@ -11,10 +11,17 @@ I am a passionate developer from Egypt with a solid foundation in **Algorithms**
 - 🔭 I’m currently working on improve my SQL skills.
 - 🎓 Specializing in Python and its data science libraries.
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JosephBotros47&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&hide=html,css,javascript&count_private=true" height="150" alt="languages graph" />
+<br></br>
+<div align="center">  
+  <table border="0">
+    <tr>
+      <td valign="middle" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JosephBotros47&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&count_private=true" height="380" alt="Most Used Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
+<br></br>
 
 
 ## 🛠 Tech Stack
@@ -41,7 +48,6 @@ I am a passionate developer from Egypt with a solid foundation in **Algorithms**
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn">
 </p>
 
----
 
 ### 🌐 Let's Connect
 <p align="left">
@@ -52,3 +58,17 @@ I am a passionate developer from Egypt with a solid foundation in **Algorithms**
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
 </p>
+
+<br></br>
+
+<div align="center">  
+  <table border="0">
+    <tr>
+      <td valign="top" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=JosephBotros47&show_icons=true&theme=dracula&count_private=true" alt="Joseph's GitHub Stats" />
+        <br/><br/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosephBotros47&theme=dracula" alt="Joseph's GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
