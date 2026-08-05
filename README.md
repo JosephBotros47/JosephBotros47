@@ -1,28 +1,35 @@
-<div align="center">
-  <h1>Hi there, I'm Joseph Botros 👋</h1>
-  <p><strong>Python Developer | Aspiring MLOps Engineer | Competitive Programmer</strong></p>
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6A0DAD&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Joseph+Botros;Python+Developer;" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=josephbotros47&label=Profile%20Views&color=6A0DAD&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/josephbotros47?label=Followers&style=flat&color=6A0DAD" alt="Followers" />
+</p>
 
 ---
+## 👨‍💻 About Me
 
-## 🧑‍💻 About Me
-I am a passionate developer from Egypt with a solid foundation in **Algorithms**, **Data Structures**, and **OOP**. Currently, I am channeling my problem-solving skills toward **Machine Learning** and **MLOps**.
+```python
+Joseph = {
+    "role"      : "Aspiring Ai Engineer",
+    "location"  : "Minya, Egypt 🇪🇬",
+    "Languages" : ["Python","C++"],
+    "Data"      : ["Pandas", "Numpy", "Seaborn" ,"Matplotlib"],
+    "focus"     : "Building Ai solutions",
+    "learning"  : "Machine learning and Ai Engineering ",
+    "available" : "Open to Machine learning / Ai internship"
+}
+```
 
-- 🔭 I’m currently working on improve my SQL skills.
-- 🎓 Specializing in Python and its data science libraries.
+## 🚀 Featured Projects
 
-<br></br>
-<div align="center">  
-  <table border="0">
-    <tr>
-      <td valign="middle" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JosephBotros47&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&count_private=true" height="380" alt="Most Used Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-<br></br>
+| # | Project | Tools | Description |
+|---|---------|-------|-------------|
+| 🏆 | [FIFA World Cup Analysis](https://github.com/JosephBotros47/FIFA-World-cup-analysis-Project) | Python · Pandas · Seaborn · matplotlib | Historical analysis of tournament trends, team performances, and goal distributions across World Cup history |
+| 🛒 | [E-Commerce Data Analysis](https://github.com/JosephBotros47/E-Commerce_Data-Analysis-Project) | Python · Pandas · Seaborn · matplotlib | EDA on sales metrics, customer buying patterns, revenue growth, and product performance |
 
+---
 
 ## 🛠 Tech Stack
 
@@ -31,9 +38,6 @@ I am a passionate developer from Egypt with a solid foundation in **Algorithms**
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
 </p>
-
-
-
 
 #### 📊 Data & Tools
 <p align="left">
@@ -48,27 +52,38 @@ I am a passionate developer from Egypt with a solid foundation in **Algorithms**
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn">
 </p>
 
+## 🎓 Certifications
 
-### 🌐 Let's Connect
+- 🎓 **Associate Data Scientist in python** *(in progress — DataCamp)*
+- 🎓 **IBM** — Python in Data science
+- 🎓 **Freecodecamp** — Data analysis with python
+
+---
+
+## 📬 Contact Me
+
 <p align="left">
+
   <a href="https://www.linkedin.com/in/joseph-botros-wilson-4611a9341/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Joseph%20Botros-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/share/1AAsfrM3XJ" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+
+  <a href="https://wa.me/201275529550" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+
+  <a href="josephbotroslll@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-josephbotroslll@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="tel:+201275529550" target="_blank">
+    <img src="https://img.shields.io/badge/Phone-01004199780-2CA5E0?style=for-the-badge&logo=phone&logoColor=white" />
+  </a>
+
 </p>
 
-<br></br>
+---
 
-<div align="center">  
-  <table border="0">
-    <tr>
-      <td valign="top" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=JosephBotros47&show_icons=true&theme=dracula&count_private=true" alt="Joseph's GitHub Stats" />
-        <br/><br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosephBotros47&theme=dracula" alt="Joseph's GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=100&section=footer&text=Let's%20turn%20data%20into%20decisions!&fontSize=20&fontColor=white" />
+</p>
