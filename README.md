@@ -85,5 +85,5 @@ Joseph = {
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=100&section=footer&text=Let's%20turn%20data%20into%20decisions!&fontSize=20&fontColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=100&section=footer&text=Let's%20create%20something%20new!&fontSize=20&fontColor=white" />
 </p>
