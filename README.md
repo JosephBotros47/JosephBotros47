@@ -1,13 +1,24 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6A0DAD&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Joseph+Botros;Python+Developer;" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=001233,33415c,5c677d&text=JOSEPH%20BOTROS&fontColor=5c677d&fontSize=70&animation=fadeIn&fontAlignY=35&desc=ASPIRING%20AI%20ENGINEER%20%7C%20COMPETITIVE%20PROGRAMMER%20%7C%20PYTHON%20DEVELOPER&descSize=18&descAlignY=57&stroke=8d99ae&strokeWidth=1" width="100%" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=8d99ae&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Joseph+Botros;Python+Developer;" alt="Typing SVG" />
 </h1>
 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=josephbotros47&label=Profile%20Views&color=6A0DAD&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/josephbotros47?label=Followers&style=flat&color=6A0DAD" alt="Followers" />
+<a href="https://joseph-botros.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1A1A1D?style=for-the-badge&logo=vercel&logoColor=8d99ae&labelColor=1A1A1D&fontColor=F4EBD0" /></a>
+<a href="https://www.linkedin.com/in/joseph-botros-wilson-4611a9341/"><img src="https://img.shields.io/badge/LinkedIn-1A1A1D?style=for-the-badge&logo=linkedin&logoColor=8d99ae&labelColor=1A1A1D&fontColor=F4EBD0" /></a>
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=josephbotros47&label=Profile%20Views&color=8d99ae&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/josephbotros47?label=Followers&style=flat&color=8d99ae" alt="Followers" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:8d99ae,100:F4EBD0&height=3&width=100%" />
+</p>
+
 ## 👨‍💻 About Me
 
 ```python
@@ -21,6 +32,10 @@ Joseph = {
     "available" : "Open to Machine learning / Ai internship"
 }
 ```
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:8d99ae,100:F4EBD0&height=3&width=100%" />
+</p>
+
 
 ## 🚀 Featured Projects
 
@@ -29,7 +44,9 @@ Joseph = {
 | 🏆 | [FIFA World Cup Analysis](https://github.com/JosephBotros47/FIFA-World-cup-analysis-Project) | Python · Pandas · Seaborn · matplotlib | Historical analysis of tournament trends, team performances, and goal distributions across World Cup history |
 | 🛒 | [E-Commerce Data Analysis](https://github.com/JosephBotros47/E-Commerce_Data-Analysis-Project) | Python · Pandas · Seaborn · matplotlib | EDA on sales metrics, customer buying patterns, revenue growth, and product performance |
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:8d99ae,100:F4EBD0&height=3&width=100%" />
+</p>
 
 ## 🛠 Tech Stack
 
@@ -52,13 +69,21 @@ Joseph = {
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn">
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:8d99ae,100:F4EBD0&height=3&width=100%" />
+</p>
+
+
 ## 🎓 Certifications
 
 - 🎓 **Associate Data Scientist in python** *(in progress — DataCamp)*
 - 🎓 **IBM** — Python in Data science
 - 🎓 **Freecodecamp** — Data analysis with python
 
----
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:8d99ae,100:F4EBD0&height=3&width=100%" />
+</p>
 
 ## 📬 Contact Me
 
