@@ -1,22 +1,22 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=001233,33415c,5c677d&text=JOSEPH%20BOTROS&fontColor=5c677d&fontSize=70&animation=fadeIn&fontAlignY=35&desc=ASPIRING%20AI%20ENGINEER%20%7C%20COMPETITIVE%20PROGRAMMER%20%7C%20PYTHON%20DEVELOPER&descSize=18&descAlignY=57&stroke=8d99ae&strokeWidth=1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=9999a1&text=JOSEPH%20BOTROS&fontColor=880d1e&fontSize=70&animation=fadeIn&fontAlignY=35&desc=ASPIRING%20AI%20ENGINEER%20%7C%20COMPETITIVE%20PROGRAMMER%20%7C%20PYTHON%20DEVELOPER&descSize=18&descAlignY=57&stroke=8d99ae&strokeWidth=1" width="100%" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=8d99ae&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Joseph+Botros;Python+Developer;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=880d1e&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Joseph+Botros;Python+Developer;" alt="Typing SVG" />
 </h1>
 
 
 <p align="center">
-<a href="https://joseph-botros.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1A1A1D?style=for-the-badge&logo=vercel&logoColor=8d99ae&labelColor=1A1A1D&fontColor=F4EBD0" /></a>
-<a href="https://www.linkedin.com/in/joseph-botros-wilson-4611a9341/"><img src="https://img.shields.io/badge/LinkedIn-1A1A1D?style=for-the-badge&logo=linkedin&logoColor=8d99ae&labelColor=1A1A1D&fontColor=F4EBD0" /></a>
+  <a href="https://joseph-botros.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-880d1e?style=for-the-badge&logo=vercel&logoColor=9999a1&labelColor=880d1e" /></a>
+  <a href="https://www.linkedin.com/in/joseph-botros-wilson-4611a9341/"><img src="https://img.shields.io/badge/LinkedIn-880d1e?style=for-the-badge&logo=linkedin&logoColor=9999a1&labelColor=880d1e" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=josephbotros47&label=Profile%20Views&color=8d99ae&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/josephbotros47?label=Followers&style=flat&color=8d99ae" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=josephbotros47&label=Profile%20Views&color=880d1e&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/josephbotros47?label=Followers&style=flat&color=880d1e" alt="Followers" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:8d99ae,100:F4EBD0&height=3&width=100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:880d1e,50:9999a1,100:880d1e&height=3&width=100%" />
 </p>
 
 ## 👨‍💻 About Me
@@ -110,5 +110,5 @@ Joseph = {
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5c677d&height=100&section=footer&text=Let's%20create%20something%20new!&fontSize=20&fontColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9999a1&height=100&section=footer&text=Let's%20create%20something%20new!&fontSize=20&fontColor=880d1e" />
 </p>
