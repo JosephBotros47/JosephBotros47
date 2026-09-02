@@ -102,7 +102,7 @@ Joseph = {
   </a>
 
   <a href="tel:+201275529550" target="_blank">
-    <img src="https://img.shields.io/badge/Phone-01004199780-2CA5E0?style=for-the-badge&logo=phone&logoColor=white" />
+    <img src="https://img.shields.io/badge/Phone-01275529550-2CA5E0?style=for-the-badge&logo=phone&logoColor=white" />
   </a>
 
 </p>
